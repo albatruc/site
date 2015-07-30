@@ -6,7 +6,7 @@
 
 <?php
 
-// gérer les actions voir, modifier, supprimer
+// gérer les actions voir, modifier, supprimer + test blabla de github
 
 if(isset($_GET['action'])){
    // Si l'action est égale à voir
